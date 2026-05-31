@@ -44,4 +44,4 @@ Flat Excel data matrices were transformed into an optimized relational **Star Sc
 ---
 
 ## 🔗 Connected Portfolios
-*   👉 **[Review the Complete Visual Case Study on Notion](PASTE_YOUR_NOTION_PUBLIC_SHARE_LINK_HERE)**
+*   👉 **(https://www.notion.so/Dr-Khyati-Garg-MBBS-Biopharma-Equity-Research-Asset-Valuation-Portfolio-370d96b9b4948012a97ac6b0d9b21157?source=copy_link)**
